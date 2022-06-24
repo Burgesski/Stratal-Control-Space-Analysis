@@ -1,0 +1,35 @@
+3 	# number of trajectories defined in the file
+3	# number of dimensions for trajectory 1
+0.9 0.0 0.2 #RGB colours for trajectory 1
+5	# number of points in trajectory 1
+  0.1	 3.0000e12	 50.0
+  0.1	 3.0000e12	 25.0
+  0.1	 3.0000e12	  0.0
+  0.1	 3.0000e12	-25.0
+  0.1	 3.0000e12	-50.0
+3	# number of dimensions for trajectory 2
+0.2 0.0 0.9 #RGB colours for trajectory 2
+5	# number of points in trajectory 2
+-15.0	 1.0000e12	  5.0
+-10.0	10.0000e12	  5.0
+ -5.0	 0.1000e12	  5.0
+  0.0	 1.0000e12	  5.0
+ -2.5	20.0000e12	  5.0
+2	# number of dimensions for trajectory 3
+0.0 0.9 0.2 #RGB colours for trajectory 3
+15	# number of points in trajectory 3
+0.00	1.1435E+11	0
+59.94	1.6105E+11	0
+107.35	1.8949E+11	0
+64.24	5.0637E+11	0
+95.72	4.9708E+11	0
+92.27	7.1865E+11	0
+67.85	3.9089E+11	0
+59.94	7.1445E+11	0
+99.59	6.0282E+11	0
+52.03	5.2179E+11	0
+-3.69	3.9247E+11	0
+35.98	4.4359E+11	0
+35.91	4.2217E+11	0
+-7.66	3.8454E+11	0
+0.00	3.5507E+11	0
